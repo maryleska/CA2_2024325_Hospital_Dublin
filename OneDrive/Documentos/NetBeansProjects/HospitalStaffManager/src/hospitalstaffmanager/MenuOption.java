@@ -10,9 +10,10 @@ package hospitalstaffmanager;
  */
 public enum MenuOption {
     SORT,
-    SEARCH,
+    SEARCH,// look for name 
     ADD_RECORDS,
     GENERATE_RANDOM,
     LOAD_FROM_FILE,
     EXIT
+    
 }
