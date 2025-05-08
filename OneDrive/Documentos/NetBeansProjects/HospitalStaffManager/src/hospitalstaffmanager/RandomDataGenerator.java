@@ -17,7 +17,7 @@ public class RandomDataGenerator {
         "Elijah", "Sophia", "William", "Mia",
         "James", "Charlotte", "Lucas", "Isabella", "Henry", "Evelyn"
     };
-
+    //Ramdom names
     private static final String[] LAST_NAMES = {
         "Smith", "Johnson", "Brown", "Taylor", "Anderson",
         "White", "Martin", "Lee", "Walker", "Hall"
