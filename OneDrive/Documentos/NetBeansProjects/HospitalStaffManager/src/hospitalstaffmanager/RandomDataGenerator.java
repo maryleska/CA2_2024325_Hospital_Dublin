@@ -20,7 +20,7 @@ public class RandomDataGenerator {
     //Ramdom names
     private static final String[] LAST_NAMES = {
         "Smith", "Johnson", "Brown", "Taylor", "Anderson",
-        "White", "Martin", "Lee", "Walker", "Hall"
+        "White", "Martin", "Lee", "Walker", "Hall", "Reyes", "Arellano"
     };
 
     public static void generate(List<Employee> employees) {
