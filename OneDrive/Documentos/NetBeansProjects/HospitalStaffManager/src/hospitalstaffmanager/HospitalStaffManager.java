@@ -67,6 +67,7 @@ public class HospitalStaffManager {
                     }
                     break;
                 case GENERATE_RANDOM:
+                    
                     RandomDataGenerator.generate(employees);
                     System.out.println("Random hospital employees generated!");
                     break;
